@@ -18,5 +18,5 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
 nvm install 14.19.0 && nvm use 14.19.0
 export NODE_OPTIONS=--openssl-legacy-provider
 
-cd infra
+cd kafka
 docker-compose up
