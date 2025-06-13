@@ -30,8 +30,8 @@ public class ResourceSecurityConfig {
             .disable()
             .authorizeRequests(exchange ->
                 exchange
-                    // .antMatchers("/orders/placeOrder**").hasRole("CUSTOMER")	// You can protect resource here, or each Method Level
-                    // .antMatchers("/orders/manageOrder**").hasRole("ADMIN")
+                    .antMatchers("/orders/placeOrder**").hasRole("CUSTOMER")	// You can protect resource here, or each Method Level
+                    .antMatchers("/orders/manageOrder**").hasRole("ADMIN")
                     .anyRequest()
                     .authenticated()
             )
