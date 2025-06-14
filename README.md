@@ -12,7 +12,6 @@ Keycloak을 Docker로 직접 구축하여 OAuth2.0 기반 인증 시스템을 �
 ![스크린샷 2025-06-13 120008](https://github.com/user-attachments/assets/0e770534-c36f-4393-b3fa-8fb68603830f)
 ![스크린샷 2025-06-13 120015](https://github.com/user-attachments/assets/0235286d-51aa-430b-9e14-401d44c15826)
 ![스크린샷 2025-06-13 120030](https://github.com/user-attachments/assets/f92f5d8a-4a0b-4378-85fd-e98dcdf78c29)
-![스크린샷 2025-06-13 121113](https://github.com/user-attachments/assets/a3b518d9-bc9d-4900-bd2b-d5eb73375d7e)
 ![스크린샷 2025-06-13 122645](https://github.com/user-attachments/assets/cb45caae-587c-4127-be83-824a5ecd79fb)
 ![스크린샷 2025-06-13 122654](https://github.com/user-attachments/assets/2c7f3a57-1b84-4753-8f74-c5758b637db0)
 
